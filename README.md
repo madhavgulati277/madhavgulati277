@@ -16,11 +16,6 @@
 🏆 **BTech Graduate** from IIT Delhi (2021-25)  
 🚀 Research focused on **innovative circuit design** and **VLSI systems**  
 
-### 🌟 Highlights
-- 💡 Working on **cutting-edge inductor-less boost converter** design
-- 🏅 **National Olympiad** qualifier (INPhO, INAO, RMO)
-- 🌌 Active member of **IITD Physics & Astronomy Club**
-- 🔬 Research experience in **analog circuit design** and **on-chip fabrication**
 
 ---
 
