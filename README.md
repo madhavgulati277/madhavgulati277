@@ -80,29 +80,14 @@
 
 ---
 
-## 🏆 Achievements & Activities
-
-### 🥇 Academic Excellence
-- 🏅 **INPhO Qualifier** - Indian National Physics Olympiad
-- 🌟 **INAO Qualifier** - Indian National Astronomy Olympiad  
-- 🧮 **RMO Qualifier** - Regional Mathematics Olympiad
-- 🎓 **IIT Delhi Graduate** (BTech 2021-25)
-
-### 🌌 Leadership & Activities
-- 🔭 **IITD Physics & Astronomy Club** - Active Member
-- 🔬 **Research Experience** in Analog Circuit Design
-- 📚 **Academic Mentor** for junior students
-
----
 
 ## 🎯 Interests & Expertise
 
 ### 🔬 Technical Interests
-- 💡 **Analog & Hardware Design** - Electronic and VLSI design
-- 🖥️ **Computer Systems** - Architecture, hardware and embedded systems  
-- 📡 **Theoretical CS** - Communication technologies
-- ⚛️ **Quantum Computing** - IBM Qiskit development
-- 🌐 **Emerging Tech** - Nanoelectronics, photonics/optics, AI/ML
+- 💡 **Analog & Hardware Design**
+- 🖥️ **Computer Systems**   
+- 📡 **Theoretical CS** 
+- ⚛️ **Quantum Computing** 
 
 ### 📚 Academic Subjects
 - 🧪 **Sciences:** Physics, Mathematics, Chemistry, Astronomy
